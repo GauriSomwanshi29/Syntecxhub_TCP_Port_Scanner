@@ -1,4 +1,4 @@
-# 🌐 Syntecxhub Port Scanner
+# 🌐 Port Scanner
 
 A simple and efficient TCP Port Scanner built using Python and socket programming.  
 This project scans a target host for open ports within a specified range and helps understand networking and cybersecurity basics.
@@ -76,28 +76,14 @@ Port 80 is OPEN
 Scan Completed!
 ```
 
----
-
-## 📸 Demo
-
-### 🖥️ Port Scanning Terminal
-
-_Add your screenshot here_
-
----
+---
 
 ## ⚠️ Disclaimer
 
 This project is created for educational and internship purposes only.  
 Only scan systems you own or have permission to test.
 
----
-
-## 🎯 Internship Project
-
-Developed as part of the Cyber Security Internship Program by Syntecxhub.
-
----
+---
 
 ## 👩‍💻 Author
 
